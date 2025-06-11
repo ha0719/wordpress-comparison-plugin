@@ -12,10 +12,10 @@
 
 3、然后使用插件生成的短代码新建page 页面即可；
 
-插件已经做过 SEO 优化，页面最终 url 类似 [https://cpuranklist.com/compare/intel-core-i7-14700k-vs-amd-ryzen-9-8940hx/](https://)
+4、插件已经做过 SEO 优化，页面最终 url 类似 [https://cpuranklist.com/compare/intel-core-i7-14700k-vs-amd-ryzen-9-8940hx/](https://)
 
-演示站点：目前可以前往 [显卡对比](https://cpuranklist.com/compare/allgpu) 或者 [CPU 对比](https://cpuranklist.com/compare/allcpu) 查看实际效果。
+5、插件前台界面控制，可以修改 templates 下的 single-comparison.php；
 
-注意，演示站点需要搭配自定义字段插件 ACF 使用
+6、演示站点：目前可以前往 [显卡对比](https://cpuranklist.com/compare/allgpu) 或者 [CPU 对比](https://cpuranklist.com/compare/allcpu) 查看实际效果。
 
-ACF 官网：https://www.advancedcustomfields.com/
+7、建议搭配自定义字段插件 ACF 使用，ACF 官网：https://www.advancedcustomfields.com/
