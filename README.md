@@ -12,7 +12,7 @@
 
 3、然后使用插件生成的短代码新建page 页面即可；
 
-4、插件已经做过 SEO 优化，页面最终 url 类似 [https://cpuranklist.com/compare/intel-core-i7-14700k-vs-amd-ryzen-9-8940hx/](https://)
+4、插件已经做过 SEO 优化，页面最终 url 类似 [https://cpuranklist.com/compare/intel-core-i7-14700k-vs-amd-ryzen-9-8940hx/]([https://](https://cpuranklist.com/compare/intel-core-i7-14700k-vs-amd-ryzen-9-8940hx/))
 
 5、插件前台界面控制，可以修改 templates 下的 single-comparison.php；
 
